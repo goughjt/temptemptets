@@ -2,4 +2,7 @@ $ cd <yourfolderpath>
 $ git init
 $ git add .
 $ git commit -m 'comments'
+$ git remote add origin <url>
+$ git pull
+$ git push origin
 
